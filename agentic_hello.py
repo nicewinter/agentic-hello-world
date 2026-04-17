@@ -3,7 +3,7 @@
 
 def main():
     """Print a greeting message."""
-    print("Hello Agentic World")
+    print("Hello Agentic Web")
 
 
 if __name__ == "__main__":
